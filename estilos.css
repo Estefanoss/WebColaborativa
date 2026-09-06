@@ -3,15 +3,15 @@ body {
 }
 
 h1 {
-  color: rgb(0, 0, 0);
+  color: rgb(177, 12, 12);
   text-align: center;
   margin-bottom: 3px;
-  margin-top: 10px;
+  margin-top: 15px;
 }
 
 
 h2 {
-  color: rgb(0, 0, 0);
+  color: rgb(153, 10, 10);
   font-size: 25px;
   font-family: "Trebuchet MS", sans-serif;
   margin-bottom: 3px;
